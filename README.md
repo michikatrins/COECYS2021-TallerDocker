@@ -9,10 +9,13 @@ Guía base para el Talle de Docker como preámbulo al Congreso de Estudiantes de
 |----|-----|
 |1| Introducción e instalación de Docker |
 |2| Docker 101|
-|4| Manipulación de contenedores|
-|5| Dockerfile|
-|6| Docker Compose 101|
+|3| Manipulación de contenedores|
+|4| Dockerfile|
+|5| Docker Compose 101|
 <br>
+
+# Grabaciones
+Puede encontrar las grabaciones [acá](videos.txt)
 
 # Contribuidores
 
